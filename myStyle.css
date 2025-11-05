@@ -22,7 +22,7 @@ nav, a{
     word-spacing: 5px;
 }
 a{
-    color: black;
+    color: #73864a;
 }
 main{
     line-height: 50px;
@@ -58,4 +58,5 @@ footer{
     text-align: center;
     font-size: smaller;
 }
+
 
