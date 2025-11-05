@@ -1,0 +1,61 @@
+body{
+    background-color: #DDE7C8;
+    font-family: Arial;
+    color:black;
+}
+header {
+    background-color: #F4F2EE;
+    text-align: center;
+    padding: 5px;
+}
+header h1{
+    font-family: Georgia;
+}
+nav{
+    text-align: center;
+}
+
+nav :hover{
+    color: #7997c9;
+}
+nav, a{
+    word-spacing: 5px;
+}
+a{
+    color: black;
+}
+main{
+    line-height: 50px;
+}
+main h2{
+    font-family: Georgia;
+}
+#home {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #b2c28f;
+}
+#about {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #b2c28f;
+}
+#projects {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #b2c28f;
+}
+#projects li{
+    list-style-type: none;
+}
+#contact {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #b2c28f;
+}
+footer{
+    background-color:beige;
+    text-align: center;
+    font-size: smaller;
+}
+
